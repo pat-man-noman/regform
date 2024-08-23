@@ -1,0 +1,47 @@
+table {
+    background-color:white;
+    border-top-color:darkgray ;
+    border-left-color:darkgray;
+    border-bottom-color:black ;
+    border-right-color:black;
+
+
+    
+    
+    
+}
+th {
+    color:red;
+    font-size: 25px;
+    background-color: yellow;
+    width: 100%;
+    font-weight: bold;
+
+}
+td{
+    padding-top: 10px;
+    padding-left:30px ;
+    padding-bottom:10px ;
+    padding-right: 30px;
+    background-color: rgb(43, 184, 255);
+    font-weight: bold
+    
+}
+tr{
+    border-left-width: 10%;
+}
+.button-cell{
+    text-align: center;
+    font-size: 30px;
+    
+    
+
+}
+.button1{
+    padding:15px 35px 15px 35px;
+    font-weight:bold;
+    font-size: 15px;
+}
+#address{
+    height: 40px;
+}
