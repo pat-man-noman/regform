@@ -4,6 +4,7 @@ table {
     border-left-color:darkgray;
     border-bottom-color:black ;
     border-right-color:black;
+    
 
 
     
@@ -20,28 +21,37 @@ th {
 }
 td{
     padding-top: 10px;
-    padding-left:30px ;
+    padding-left:10px ;
     padding-bottom:10px ;
-    padding-right: 30px;
+    padding-right: 20px;
     background-color: rgb(43, 184, 255);
-    font-weight: bold
+    font-weight: bold;
+    
+    
     
 }
 tr{
     border-left-width: 10%;
+
 }
 .button-cell{
     text-align: center;
     font-size: 30px;
     
     
+    
 
 }
 .button1{
-    padding:15px 35px 15px 35px;
+    padding:10px 30px 10px 30px;
     font-weight:bold;
     font-size: 15px;
+    
 }
 #address{
     height: 40px;
 }
+.select{
+    width: 110px;
+}
+
